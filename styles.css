@@ -182,7 +182,7 @@ body {
     right: 0;
     bottom: 0;
     background: url('main_background.png') center/cover;
-    opacity: 0.4;
+    opacity: 0.6;
     z-index: 1;
 }
 
