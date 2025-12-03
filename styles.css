@@ -181,7 +181,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('회사소개서/슬라이드1.JPG') center/cover;
+    background: url('main_background.png') center/cover;
     opacity: 0.15;
     z-index: 1;
 }
